@@ -121,5 +121,4 @@ Privacy Policy
 Za mu sabunta wannan ɓangare da ka’idojin tsare sirrin masu ziyara kafin mu nemi AdSense.
 
 // Set current year automatically document.getElementById('year').textContent = new Date().getFullYear(); /* ===== AdSense Placeholder ===== 1) Bayan ka samu approval daga Google AdSense, saka wannan a <head> ko kafin </body>: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXX" crossorigin="anonymous"> 2) Sannan a kowane wuri na .ad zaka maye gurbin placeholder da: <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXX" data-ad-slot="YYYY" data-ad-format="auto" data-full-width-responsive="true"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> */
-Sent 7m ago
-Write to Hussaini Musa
+
