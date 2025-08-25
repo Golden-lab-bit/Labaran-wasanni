@@ -74,7 +74,7 @@
     <!-- SABON SASHE NA LABARAN WASANNI -->
     <section id="labarai">
       <h2>Labaran Wasanni</h2>
-      <iframe src="https://golden-esport.blogspot.com/" width="100%" height="600" style="border:none;"></iframe>
+      <iframe src="https://https://labarangolden.blogspot.com/" width="100%" height="600" style="border:none;"></iframe>
     </section>
   </main>
 
