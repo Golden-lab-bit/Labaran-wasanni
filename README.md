@@ -62,7 +62,7 @@
 
   <div id="mySidebar" class="sidebar">
     <span class="closebtn" onclick="closeNav()">×</span>
-    <a href="https://golden-lab-bit.github.io/Labaran-wasanni/">Labaran Wasanni</a>
+    <a href="https://https://golden-lab-bit.github.io/Labaran-wasanni/</a>
     <a href="#">Kai Tsaye(live)</a>
     <a href="#">Fixtures</a>
   </div>
