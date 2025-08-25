@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -62,19 +61,21 @@
 
   <div id="mySidebar" class="sidebar">
     <span class="closebtn" onclick="closeNav()">×</span>
-    <a href="#">Labaran Wasanni</a>
-    <a href="#">Kai Tsaye(live)</a>
+    <a href="#labarai">Labaran Wasanni</a>
+    <a href="#">Kai Tsaye (Live)</a>
     <a href="#">Fixtures</a>
   </div>
 
   <main style="padding:20px;">
     <h1>Tottenham na son Savinho, Ƙungiyoyi na rububin Rodrygo</h1>
-<img src="https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/139d/live/fbed6fd0-813f-11f0-b7e1-f39ec0dca198.jpg.webp"></img>
-    <p>Ɗan wasa Savinho daga Manchester City ya kasance wanda Tottenham ke so ido rufe, yayinda kocinsu Thomas Frank ya dage don ganin lallai ya saye matashin mai shekara 21 daga Brazil, musamman ganin sun yi rashin nasarar daidaitawa kan Eberechi Eze mai shekara 27, da ya je Arsenal. (Independent)</p>
+    <img src="https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/139d/live/fbed6fd0-813f-11f0-b7e1-f39ec0dca198.jpg.webp" alt="Tottenham News" style="max-width:100%;height:auto;">
+    <p>Ɗan wasa Savinho daga Manchester City ya kasance wanda Tottenham ke so ido rufe, yayinda kocinsu Thomas Frank ya dage don ganin lallai ya saye matashin mai shekara 21 daga Brazil...</p>
 
-<p> ta gabatar da tayi kan ɗan wasan Manchester City, kuma ta ce za ta biya fam miliyan 60.7 don ganin ta mallake Savinho, wanda ke burin komawa Landan. (Talksport)</p>
-<p>A kokarin ganin ta ɗauko sabbin 'yanwasa biyu, Tottenham ta amince da yarjejeniyar fam miliyan 43 kan ɗan wasan Como da Argentina, Nico Paz mai shekara 20, amma ƙungiyarsa ta Italiya na neman fam miiyan 60.(Sky Sports Italia - in Italian)</p>
-<p>Manchester City da Arsenal da Liverpool na son ɗan wasan Real Madrid da Brazil, Rodrygo mai shekara 24, amma ƙungiyarsa ta Sifaniya ba ta karɓi tayi daga kowa ba tukkunan. (Marca - in Spanish)</p>
+    <!-- SABON SASHE NA LABARAN WASANNI -->
+    <section id="labarai">
+      <h2>Labaran Wasanni</h2>
+      <iframe src="https://golden-esport.blogspot.com/" width="100%" height="600" style="border:none;"></iframe>
+    </section>
   </main>
 
   <script>
