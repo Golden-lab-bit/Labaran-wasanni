@@ -75,7 +75,9 @@
 <p> ta gabatar da tayi kan ɗan wasan Manchester City, kuma ta ce za ta biya fam miliyan 60.7 don ganin ta mallake Savinho, wanda ke burin komawa Landan. (Talksport)</p>
 <p>A kokarin ganin ta ɗauko sabbin 'yanwasa biyu, Tottenham ta amince da yarjejeniyar fam miliyan 43 kan ɗan wasan Como da Argentina, Nico Paz mai shekara 20, amma ƙungiyarsa ta Italiya na neman fam miiyan 60.(Sky Sports Italia - in Italian)</p>
 <p>Manchester City da Arsenal da Liverpool na son ɗan wasan Real Madrid da Brazil, Rodrygo mai shekara 24, amma ƙungiyarsa ta Sifaniya ba ta karɓi tayi daga kowa ba tukkunan. (Marca - in Spanish)</p>
-  </main>
+ <img src="https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/6361/live/3a03e2b0-8044-11f0-ab3e-bd52082cd0ae.png.webp" />
+<h3>Ta yaya Arsenal ta yi nasarar sayen Eze?</h3>
+ </main>
 
   <script>
     function openNav() {
