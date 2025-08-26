@@ -29,7 +29,7 @@
     <div class="main navbar"></div> <!-- -->
     <a href="https://golden-lab-bit.github.io/Labaran-wasanni/">Labaran Wasanni</a>
     <a href="#">Kai Tsaye(live)</a>
-    <a href="#">Fixtures</a>
+    <a href="https://golden-lab-bit.github.io/labaran-wasanni-fixtures/">Fixtures</a>
   </div>
     <main style="padding:20px;">
       <h2>🚨⚠️ An ci mutuncin Kylian Mbappé da Vini Jr.</h2>
